@@ -1,0 +1,11 @@
+body {
+	font-family: "Inter", "Segoe UI", system-ui, -apple-system, sans-serif;
+}
+
+.d-grid-buttons {
+	grid-template-columns: repeat(4, 1fr);
+}
+
+#display {
+	letter-spacing: 0.5px;
+}
